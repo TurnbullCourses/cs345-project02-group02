@@ -1,9 +1,4 @@
 # cs345-project02-group02
 Developing MoneyTracker
 
-Test push
-Test push #2
-
-Testing 1...2...3
-
-Test push ...
+Sprint [1] Goal: User classes need to be functional for a pseudo-family (parent + child combo).
