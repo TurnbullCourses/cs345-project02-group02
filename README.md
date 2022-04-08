@@ -12,3 +12,5 @@ Sprint Review [1]
 -Trello board: Laci
 -Sprint Review: https://docs.google.com/document/d/1h4F19J7FtgFHhB8kktlCkdZFUIlgjl5KEG3_lKoZJ5k/edit?usp=sharing
 -https://docs.google.com/document/d/1nDfozBj-vZiTOq3r7v_inTcLJOdZcqMP4HVHdJ5KaY8/edit?usp=sharing
+
+Sprint Retrospective: https://docs.google.com/document/d/1z2pKwty6hmxw8-WRvuebTgslTlFt72xK_xtFGQ8J1uY/edit?usp=sharing
